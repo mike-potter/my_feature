@@ -5,7 +5,10 @@
  */
 
 include_once 'my_feature.features.inc';
+<<<<<<< HEAD
 
 function my_feature_init() {
   //init stuff here
 }
+=======
+>>>>>>> 6e627b3d5c88e5bb3f611f2a2ddb0084dd32968f

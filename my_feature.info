@@ -16,12 +16,23 @@ features[field_instance][] = node-mycontent-body
 features[field_instance][] = node-mycontent-field_myfield
 features[field_instance][] = node-mycontent-field_mymedia
 features[node][] = mycontent
+<<<<<<< HEAD
+=======
+features[variable][] = comment_anonymous_mycontent
+features[variable][] = comment_default_mode_mycontent
+features[variable][] = comment_default_per_page_mycontent
+features[variable][] = comment_form_location_mycontent
+features[variable][] = comment_mycontent
+features[variable][] = comment_preview_mycontent
+features[variable][] = comment_subject_field_mycontent
+>>>>>>> 6e627b3d5c88e5bb3f611f2a2ddb0084dd32968f
 features[variable][] = field_bundle_settings_node__mycontent
 features[variable][] = menu_options_mycontent
 features[variable][] = menu_parent_mycontent
 features[variable][] = node_options_mycontent
 features[variable][] = node_preview_mycontent
 features[variable][] = node_submitted_mycontent
+<<<<<<< HEAD
 features_exclude[variable][comment_anonymous_mycontent] = comment_anonymous_mycontent
 features_exclude[variable][comment_default_mode_mycontent] = comment_default_mode_mycontent
 features_exclude[variable][comment_default_per_page_mycontent] = comment_default_per_page_mycontent
@@ -29,3 +40,5 @@ features_exclude[variable][comment_form_location_mycontent] = comment_form_locat
 features_exclude[variable][comment_mycontent] = comment_mycontent
 features_exclude[variable][comment_preview_mycontent] = comment_preview_mycontent
 features_exclude[variable][comment_subject_field_mycontent] = comment_subject_field_mycontent
+=======
+>>>>>>> 6e627b3d5c88e5bb3f611f2a2ddb0084dd32968f

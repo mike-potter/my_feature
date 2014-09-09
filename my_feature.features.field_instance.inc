@@ -172,6 +172,7 @@ function my_feature_field_default_field_instances() {
           'upload' => 'upload',
           'youtube' => 0,
         ),
+<<<<<<< HEAD
         'caption_from_title' => 1,
         'insert' => 0,
         'insert_absolute' => FALSE,
@@ -187,6 +188,11 @@ function my_feature_field_default_field_instances() {
         'manualcrop_default_crop_area' => 1,
         'manualcrop_enable' => 0,
         'manualcrop_filter_insert' => TRUE,
+=======
+        'manualcrop_crop_info' => 1,
+        'manualcrop_default_crop_area' => 1,
+        'manualcrop_enable' => 0,
+>>>>>>> 6e627b3d5c88e5bb3f611f2a2ddb0084dd32968f
         'manualcrop_inline_crop' => 0,
         'manualcrop_instant_crop' => FALSE,
         'manualcrop_instant_preview' => 1,
