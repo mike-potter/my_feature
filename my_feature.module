@@ -1,0 +1,11 @@
+<?php
+/**
+ * @file
+ * Code for the My Feature feature.
+ */
+
+include_once 'my_feature.features.inc';
+
+function my_feature_init() {
+  //init stuff here
+}
